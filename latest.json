@@ -1,0 +1,8 @@
+{
+  "versionCode": 269,
+  "versionName": "0.7.269",
+  "url": "https://raw.githubusercontent.com/Donnybw/DRock-Listen-Releases/main/DRock-Listen-0.7.269.apk",
+  "sha256": "91f14f86c4bff9207699cc57f2efaad2e61d69e5039f5aa18e235a859bdb44a4",
+  "size": 46579538,
+  "notes": "Fixed a crash while streaming from your DRock PC away from home"
+}
